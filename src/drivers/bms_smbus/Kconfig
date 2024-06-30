@@ -1,0 +1,5 @@
+menuconfig DRIVERS_BMS_SMBUS
+	bool "bms_smbus"
+	default y
+	---help---
+		Enable support for bms_smbus
